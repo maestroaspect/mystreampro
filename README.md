@@ -1,2 +1,2 @@
 # MyStreamPro Viewer
-My working version of the Firestorm Viewer preconfigured for MyStreamPro Grid.
+Working version of the Firestorm Viewer preconfigured for MyStreamPro Grid.
