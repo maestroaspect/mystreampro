@@ -46,7 +46,8 @@ These features are designed to enhance your experience on the MyStreamPro Grid a
 
 
 ## Project Links
-
+- [MyStreamPro](https://mystreampro.com)
+- [MyStreamPro Private Digital Properties](https://mystreampro.com/workspace/en/)
 - [MyStreamPro GitHub Repository](https://github.com/maestroaspect/mystreampro)
 
 
