@@ -18,7 +18,7 @@ We owe our deepest appreciation to the following groups and individuals who have
 
 ## Licensing 
 
-MyStreamPro is based on the Firestorm Viewer, which is licensed under LGPLv2. To ensure compliance with the licensing terms, MyStreamPro is released under the LGPLv2  as well.
+MyStreamPro is based on the Firestorm Viewer, which is licensed under LGPLv2. To ensure compliance with the licensing terms, MyStreamPro is released under the LGPLv2 as well. Please review the [license](LICENSE) for more details.
 
 ## Features
 
