@@ -4,11 +4,11 @@ MyStreamPro is a derivative of the Firestorm Viewer, optimized for use on the My
 
 ## Project Background
 
-### About Firestorm Viewer
+### About the Viewer
 
-The genesis of the Phoenix Firestorm Project can be traced back to Linden Lab's pioneering decision to share the source code of their Second Life viewer. The Firestorm Viewer has a rich history and has been shaped by various contributors over the years.
+As a fork project, MyStreamPro closely monitors the evolution of the Firestorm Viewer and makes continuous enhancements and improvements to better serve its userbase. The genesis of the Phoenix Firestorm Project can be traced back to Linden Lab's pioneering decision to share the source code of their Second Life viewer. Subsequently, third-party viewers emerged. Today, the Firestorm Viewer stands as one of the foremost third-party viewers, enriched by a 13 years history and the collective contributions of numerous developers throughout the years. 
 
-We owe our deepest appreciation to the following groups and individuals who have played a pivotal role in the development of the Firestorm Viewer, upon which MyStreamPro is built:
+We owe our deepest appreciation to the following groups and individuals who have played a pivotal role in the development of the viewer, upon which MyStreamPro is built:
 
 - **The Development Team at Linden Lab:** Since Second Life's inception in 2003, they have been pioneers in the metaverse landscape.
 
@@ -18,9 +18,9 @@ We owe our deepest appreciation to the following groups and individuals who have
 
 ## Licensing 
 
-MyStreamPro is based on the Firestorm Viewer, which is licensed under LGPLv2. To ensure compliance with the licensing terms, MyStreamPro is released under the LGPLv2 as well. Please review the [license](LICENSE) for more details.
+To ensure compliance with the licensing terms, MyStreamPro is released under the LGPLv2. Please review the [license](LICENSE) for more details.
 
-## Features
+## New Features
 
 MyStreamPro comes with several enhanced features, including:
 
@@ -30,9 +30,9 @@ MyStreamPro comes with several enhanced features, including:
 
 - **Ignorable Dialogs:** Addition of extra dialogs or notifications users don't want to see.
 
-- **Customizing Skin Parameter Values:** Adjustment of the default skin parameters to personalize the viewer's appearance.
+- **Custom Skin Parameter Values:** Adjustment of the default skin parameters to personalize the viewer's appearance.
 
-- **Customizing Cache Directory Location:** Designation of a new cache location to prevent conflicts with other Firestorm-based viewers.
+- **Custom Cache Directory Location:** Designation of a new cache location to prevent conflicts with other Firestorm-based viewers.
 
 - **Resource Updates:** Changes to image resources and other graphical elements for a better experience.
 
