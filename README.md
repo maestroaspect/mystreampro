@@ -53,11 +53,11 @@ These features are designed to enhance your experience on the MyStreamPro Grid a
 
 ## Building Instructions
 
-These instructions will guide you through the process of building MyStreamPro from the source code. Building MyStreamPro allows you to customize the viewer and adapt it to your specific needs.
+These instructions will guide you through the process of building MyStreamPro from the source code. Building MyStreamPro follows the same process as [compiling firestorm](https://wiki.firestormviewer.org/fs_compiling_firestorm), enabling you to customize the viewer and tailor it to your specific requirements.
 
 ### Prerequisites
 
-Before you begin, make sure you have the following prerequisites installed on your system, which are common to the Firestorm Viewer:
+Before you begin, make sure you have the following prerequisites installed on your system:
 
 **Windows**:
 - [Visual Studio](https://visualstudio.microsoft.com/downloads/) (Visual Studio 2017 or later).
@@ -102,7 +102,7 @@ Replace `yourusername` with your GitHub username or the appropriate repository U
 
 cd mystreampro
 
-3. **Build the Project**: Depending on the build system and tools used in the project, you have to execute specific build commands. Refer to the project's documentation or build instructions for the exact commands to build MyStreamPro.
+3. **Build the Project**: Depending on the build system and tools used in the project, you have to execute specific build commands. Refer to the project's documentation or build instructions for the exact commands to build MyStreamPro. 
 
 4. **Customize Configuration (If Needed)**: If you need to configure or customize any settings for your specific use case, refer to the project's configuration files or documentation. Make any necessary changes as per your requirements.
 
