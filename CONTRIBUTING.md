@@ -48,7 +48,7 @@ Licensing
 By contributing to MyStreamPro, you agree that your contributions will be licensed under the same license as the project (include the specific license).
 Contact
 
-For any questions or clarifications, please feel free to contact us at [info@mystreampro.com].
+For any questions or clarifications, please feel free to contact us at info@mystreampro.com.
 
 Thank you for considering a contribution to MyStreamPro!
 
