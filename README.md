@@ -116,7 +116,7 @@ We welcome contributions from the community to help make MyStreamPro even better
 
 ## Contact
 
-For inquiries or contributions, please contact us at info@aspectsoft.gr.
+For inquiries or contributions, please contact us at info@mystreampro.com.
 
 ---
 
