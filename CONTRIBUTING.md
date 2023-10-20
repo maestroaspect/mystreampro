@@ -13,27 +13,26 @@ To contribute to MyStreamPro, follow these steps:
    ```bash
    git clone https://github.com/yourusername/mystreampro.git
 
-    Create a Feature Branch: Create a feature branch for your changes:
+3. **Create a Feature Branchk**: Create a feature branch for your changes:
 
-    bash
+   ```bash
+   git checkout -b feature-name
 
-git checkout -b feature-name
+4. **Make Changes**: Implement your changes or additions.
 
-Make Changes: Implement your changes or additions.
+5. **Commit**: Commit your changes with clear and concise commit messages.
 
-Commit: Commit your changes with clear and concise commit messages.
+6. **Push**: Push your changes to your GitHub repository:
 
-Push: Push your changes to your GitHub repository:
-
-bash
-
+   ```bash
     git push origin feature-name
 
-    Create a Pull Request (PR): Go to the original MyStreamPro repository on GitHub and create a PR from your feature branch to the main branch. In the PR description, provide a clear and detailed explanation of your changes.
+7. **Create a Pull Request (PR)**: Go to the original MyStreamPro repository on GitHub and create a PR from your feature branch to the main branch. In the PR description, provide a clear and detailed explanation of your changes.
 
 Code of Conduct
 
 Please review our Code of Conduct to understand our community standards.
+
 Contribution Guidelines
 
     Respect the existing coding style and practices of the project.
@@ -46,6 +45,7 @@ Contribution Guidelines
 Licensing
 
 By contributing to MyStreamPro, you agree that your contributions will be licensed under the same license as the project (include the specific license).
+
 Contact
 
 For any questions or clarifications, please feel free to contact us at info@mystreampro.com.
