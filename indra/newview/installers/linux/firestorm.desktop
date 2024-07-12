@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=MyStreamPro
+Exec=mystreampro
+Comment=Client for virtual worlds
+Icon=mystreampro_icon
+Categories=Development;
+Terminal=true
