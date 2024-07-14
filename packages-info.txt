@@ -1,5 +1,4 @@
-MyStreamPro 4.0.0 (Fork of Firestorm)
-Copyright (c) 2024, AspectSoft
+MyStreamPro (Fork of Firestorm)
 
 Firestorm 7.1.9.74805
 Copyright (c) 2024, The Phoenix Firestorm Project, Inc.
